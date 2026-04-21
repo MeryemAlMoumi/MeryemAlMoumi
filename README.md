@@ -76,7 +76,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/meryem-al-moumi">LinkedIn</a> •
-  <a href="mailto:meryemalmoumi1@gmail.com">meryemalmoumi1@gmail.com</a> •
-  📞 +212 678 972 133 •
+  <a href="mailto:meryemalmoumi1@gmail.com">meryemalmoumi1@gmail.com</a>  •
   📍 Marrakech, Maroc
 </p>
