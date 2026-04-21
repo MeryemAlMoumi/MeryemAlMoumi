@@ -19,7 +19,7 @@
 
 - 🏫 Étudiante en **Génie Informatique** à l'**ENSA de Marrakech** (2ème année)
 - 💡 Mes domaines de passion : **Computer Vision**, **Deep Learning**, **IA embarquée** & **Data Science**
-- 🔭 Actuellement en train de travailler sur un système de detectiob des fraudes vocals génerépar AI
+- 🔭 Actuellement en train de travailler sur un système de detection des fraudes vocals génerépar AI
 - 🌱 En apprentissage continu sur les architectures CNN, Transformer & le déploiement edge (Raspberry Pi)
 - 💼 **Ouverte aux opportunités de stage PFA** dès le **1er juillet 2026** (2 mois)
 - 🥇 1er prix hackathon « Vers un Maroc durable » avec le projet **AgriGuard**
