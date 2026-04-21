@@ -19,7 +19,7 @@
 
 - 🏫 Étudiante en **Génie Informatique** à l'**ENSA de Marrakech** (2ème année)
 - 💡 Mes domaines de passion : **Computer Vision**, **Deep Learning**, **IA embarquée** & **Data Science**
-- 🔭 Actuellement en train de travailler sur un système de detection des fraudes vocals génerépar AI
+- 🔭 Actuellement en train de travailler sur un système de detection des fraudes vocals géneré par AI
 - 🌱 En apprentissage continu sur les architectures CNN, Transformer & le déploiement edge (Raspberry Pi)
 - 💼 **Ouverte aux opportunités de stage PFA** dès le **1er juillet 2026** (2 mois)
 - 🥇 1er prix hackathon « Vers un Maroc durable » avec le projet **AgriGuard**
@@ -50,7 +50,6 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### Bases de données
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
